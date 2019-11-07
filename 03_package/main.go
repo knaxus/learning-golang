@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ashokdey/learn-golang/03_package/strutils"
+	"github.com/ashokdey/learning-golang/03_package/strutils"
 )
 
 func main() {
